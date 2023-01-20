@@ -1,5 +1,4 @@
 {
-<<<<<<< HEAD
   "name": "ultraviolet-static",
   "main": "lib/index.js",
   "version": "1.0.2",
@@ -16,11 +15,11 @@
   },
   "devDependencies": {
     "eslint": "^8.23.0",
-=======
   "name": "uv-app",
   "version": "1.0.0",
   "description": "Ultraviolet instance",
   "type": "module",
+  },
   "engines": {
     "npm": ">=7.0.0",
     "node": ">=16.0.0"
@@ -41,7 +40,6 @@
   },
   "devDependencies": {
     "eslint": "^8.23.1",
->>>>>>> 473432e96ba10e7f0ce248279ebe865361f69ba4
     "prettier": "^2.7.1"
   }
 }
